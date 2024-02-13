@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\bin\Debug\net8.0\Cut_tek.exe
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\bin\Debug\net8.0\Cut_tek.deps.json
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\bin\Debug\net8.0\Cut_tek.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\bin\Debug\net8.0\Cut_tek.dll
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\bin\Debug\net8.0\Cut_tek.pdb
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.dll
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\refint\Cut_tek.dll
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.pdb
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\Cut_tek.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Cut_tek\Cut_tek\obj\Debug\net8.0\ref\Cut_tek.dll

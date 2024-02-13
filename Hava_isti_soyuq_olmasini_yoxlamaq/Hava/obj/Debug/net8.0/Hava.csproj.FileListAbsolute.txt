@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Hava\Hava\bin\Debug\net8.0\Hava.exe
+C:\Users\Windows 11\source\repos\Hava\Hava\bin\Debug\net8.0\Hava.deps.json
+C:\Users\Windows 11\source\repos\Hava\Hava\bin\Debug\net8.0\Hava.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Hava\Hava\bin\Debug\net8.0\Hava.dll
+C:\Users\Windows 11\source\repos\Hava\Hava\bin\Debug\net8.0\Hava.pdb
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.dll
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\refint\Hava.dll
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.pdb
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\Hava.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Hava\Hava\obj\Debug\net8.0\ref\Hava.dll

@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\bin\Debug\net8.0\Her_iki_cut.exe
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\bin\Debug\net8.0\Her_iki_cut.deps.json
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\bin\Debug\net8.0\Her_iki_cut.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\bin\Debug\net8.0\Her_iki_cut.dll
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\bin\Debug\net8.0\Her_iki_cut.pdb
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.dll
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\refint\Her_iki_cut.dll
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.pdb
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\Her_iki_cut.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Her_iki_cut\Her_iki_cut\obj\Debug\net8.0\ref\Her_iki_cut.dll

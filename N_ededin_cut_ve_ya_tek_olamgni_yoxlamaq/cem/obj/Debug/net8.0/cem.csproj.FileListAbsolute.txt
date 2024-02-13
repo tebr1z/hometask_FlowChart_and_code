@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Cut_tek\cem\bin\Debug\net8.0\cem.exe
+C:\Users\Windows 11\source\repos\Cut_tek\cem\bin\Debug\net8.0\cem.deps.json
+C:\Users\Windows 11\source\repos\Cut_tek\cem\bin\Debug\net8.0\cem.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Cut_tek\cem\bin\Debug\net8.0\cem.dll
+C:\Users\Windows 11\source\repos\Cut_tek\cem\bin\Debug\net8.0\cem.pdb
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.dll
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\refint\cem.dll
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.pdb
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\cem.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Cut_tek\cem\obj\Debug\net8.0\ref\cem.dll

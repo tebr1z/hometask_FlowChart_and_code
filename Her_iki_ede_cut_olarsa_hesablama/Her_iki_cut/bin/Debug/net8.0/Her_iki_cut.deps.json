@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Her_iki_cut/1.0.0": {
+        "runtime": {
+          "Her_iki_cut.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Her_iki_cut/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

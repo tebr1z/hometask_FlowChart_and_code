@@ -1,0 +1,14 @@
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\bin\Debug\net8.0\Algoritim.exe
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\bin\Debug\net8.0\Algoritim.deps.json
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\bin\Debug\net8.0\Algoritim.runtimeconfig.json
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\bin\Debug\net8.0\Algoritim.dll
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\bin\Debug\net8.0\Algoritim.pdb
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.dll
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\refint\Algoritim.dll
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.pdb
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\Algoritim.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\Algoritim\Algoritim\obj\Debug\net8.0\ref\Algoritim.dll
