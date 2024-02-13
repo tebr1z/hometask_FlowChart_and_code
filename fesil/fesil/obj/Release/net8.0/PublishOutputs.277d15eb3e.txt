@@ -1,0 +1,5 @@
+C:\Users\Windows 11\Desktop\C#\fesil.exe
+C:\Users\Windows 11\Desktop\C#\fesil.dll
+C:\Users\Windows 11\Desktop\C#\fesil.deps.json
+C:\Users\Windows 11\Desktop\C#\fesil.runtimeconfig.json
+C:\Users\Windows 11\Desktop\C#\fesil.pdb

@@ -1,0 +1,15 @@
+C:\Users\Windows 11\source\repos\ortalama\ortalama\bin\Debug\net8.0\ortalama.exe
+C:\Users\Windows 11\source\repos\ortalama\ortalama\bin\Debug\net8.0\ortalama.deps.json
+C:\Users\Windows 11\source\repos\ortalama\ortalama\bin\Debug\net8.0\ortalama.runtimeconfig.json
+C:\Users\Windows 11\source\repos\ortalama\ortalama\bin\Debug\net8.0\ortalama.dll
+C:\Users\Windows 11\source\repos\ortalama\ortalama\bin\Debug\net8.0\ortalama.pdb
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.AssemblyInfoInputs.cache
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.AssemblyInfo.cs
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.sourcelink.json
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.dll
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\refint\ortalama.dll
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.pdb
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ortalama.genruntimeconfig.cache
+C:\Users\Windows 11\source\repos\ortalama\ortalama\obj\Debug\net8.0\ref\ortalama.dll
